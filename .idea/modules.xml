@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultiThreads/MultiThreads.iml" filepath="$PROJECT_DIR$/MultiThreads/MultiThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartingThreads/StartingThreads.iml" filepath="$PROJECT_DIR$/StartingThreads/StartingThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Synchronized/Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads.iml" filepath="$PROJECT_DIR$/Threads.iml" />
+    </modules>
+  </component>
+</project>
